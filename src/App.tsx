@@ -1,7 +1,12 @@
 import "./App.css";
+import CheckPage from "./pages/CheckPage";
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <CheckPage />
+    </>
+  );
 }
 
 export default App;
